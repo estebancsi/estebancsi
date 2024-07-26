@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Esteban and I'm a Software Engineer, from Colombia</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<iframe src="https://giphy.com/embed/LqW9dLVjQm3cs" height="150" style="" frameBorder="0" class="giphy-embed"></iframe><p><a href="https://giphy.com/gifs/LqW9dLVjQm3cs">via GIPHY</a></p>
+<img align="right" height="150" src="https://c.tenor.com/jY1dU6IFglIAAAAC/tenor.gif"  />
 
 ###
 
